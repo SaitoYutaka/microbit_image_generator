@@ -1,188 +1,418 @@
-# blank
+// # NOT YET 0:
+// # NOT YET 1:
+// # NOT YET 2:
+// # NOT YET 3:
+// # NOT YET 4:
+// # NOT YET 5:
+// # NOT YET 6:
+// # NOT YET 7:
+// # NOT YET 8:
+// # NOT YET 9:
+// # NOT YET 10:
+// # NOT YET 11:
+// # NOT YET 12:
+// # NOT YET 13:
+// # NOT YET 14:
+// # NOT YET 15:
+// # NOT YET 16:
+// # NOT YET 17:
+// # NOT YET 18:
+// # NOT YET 19:
+// # NOT YET 20:
+// # NOT YET 21:
+// # NOT YET 22:
+// # NOT YET 23:
+// # NOT YET 24:
+// # NOT YET 25:
+// # NOT YET 26:
+// # NOT YET 27:
+// # NOT YET 28:
+// # NOT YET 29:
+// # NOT YET 30:
+// # NOT YET 31:
+# 32:Space
 0 0 0 0 0
 0 0 0 0 0
 0 0 0 0 0
 0 0 0 0 0
 0 0 0 0 0
 
-# A
+// # NOT YET 33:
+// # NOT YET 34:
+// # NOT YET 35:
+// # NOT YET 36:
+// # NOT YET 37:
+// # NOT YET 38:
+// # NOT YET 39:
+// # NOT YET 40:
+// # NOT YET 41:
+// # NOT YET 42:
+// # NOT YET 43:
+// # NOT YET 44:
+// # NOT YET 45:
+// # NOT YET 46:
+// # NOT YET 47:
+// # NOT YET 48:
+// # NOT YET 49:
+// # NOT YET 50:
+// # NOT YET 51:
+// # NOT YET 52:
+// # NOT YET 53:
+// # NOT YET 54:
+// # NOT YET 55:
+// # NOT YET 56:
+// # NOT YET 57:
+// # NOT YET 58:
+// # NOT YET 59:
+// # NOT YET 60:
+// # NOT YET 61:
+// # NOT YET 62:
+// # NOT YET 63:
+// # NOT YET 64:
+# 65:A
 0 1 1 0 0
 1 0 0 1 0
 1 1 1 1 0
 1 0 0 1 0
 1 0 0 1 0
 
-# B
+# 66:B
 1 1 1 0 0
 1 0 0 1 0
 1 1 1 0 0
 1 0 0 1 0
 1 1 1 0 0
 
-# C
+# 67:C
 0 1 1 1 0
 1 0 0 0 0
 1 0 0 0 0
 1 0 0 0 0
 0 1 1 1 0
 
-# D
+# 68:D
 1 1 1 0 0
 1 0 0 1 0
 1 0 0 1 0
 1 0 0 1 0
 1 1 1 0 0
 
-# E
+# 69:E
 1 1 1 1 0
 1 0 0 0 0
 1 1 1 0 0
 1 0 0 0 0
 1 1 1 1 0
 
-# F
+# 70:F
 1 1 1 1 0
 1 0 0 0 0
 1 1 1 0 0
 1 0 0 0 0
 1 0 0 0 0
 
-# G
+# 71:G
 0 1 1 1 0
 1 0 0 0 0
 1 0 0 1 1
 1 0 0 0 1
 0 1 1 1 0
 
-# H
+# 72:H
 1 0 0 1 0
 1 0 0 1 0
 1 1 1 1 0
 1 0 0 1 0
 1 0 0 1 0
 
-# I
+# 73:I
 1 1 1 0 0
 0 1 0 0 0
 0 1 0 0 0
 0 1 0 0 0
 1 1 1 0 0
 
-# J
+# 74:J
 1 1 1 1 1
 0 0 0 1 0
 0 0 0 1 0
 1 0 0 1 0
 0 1 1 0 0
 
-# K
+# 75:K
 1 0 0 1 0
 1 0 1 0 0
 1 1 0 0 0
 1 0 1 0 0
 1 0 0 1 0
 
-# L
+# 76:L
 1 0 0 0 0
 1 0 0 0 0
 1 0 0 0 0
 1 0 0 0 0
 1 1 1 1 0
 
-# M
+# 77:M
 1 0 0 0 1
 1 1 0 1 1
 1 0 1 0 1
 1 0 0 0 1
 1 0 0 0 1
 
-# N
+# 78:N
 1 0 0 0 1
 1 1 0 0 1
 1 0 1 0 1
 1 0 0 1 1
 1 0 0 0 1
 
-# O
+# 79:O
 0 1 1 0 0
 1 0 0 1 0
 1 0 0 1 0
 1 0 0 1 0
 0 1 1 0 0
 
-# P
+# 80:P
 1 1 1 0 0
 1 0 0 1 0
 1 1 1 0 0
 1 0 0 0 0
 1 0 0 0 0
 
-# Q
+# 81:Q
 0 1 1 0 0
 1 0 0 1 0
 1 0 0 1 0
 0 1 1 0 0
 0 0 1 1 0
 
-# R
+# 82:R
 1 1 1 0 0
 1 0 0 1 0
 1 1 1 0 0
 1 0 0 1 0
 1 0 0 0 1
 
-# S
+# 83:S
 0 1 1 1 0
 1 0 0 0 0
 0 1 1 0 0
 0 0 0 1 0
 1 1 1 0 0
 
-# T
+# 84:T
 1 1 1 1 1
 0 0 1 0 0
 0 0 1 0 0
 0 0 1 0 0
 0 0 1 0 0
 
-# U
+# 85:U
 1 0 0 1 0
 1 0 0 1 0
 1 0 0 1 0
 1 0 0 1 0
 0 1 1 0 0
 
-# V
+# 86:V
 1 0 0 0 1
 1 0 0 0 1
 1 0 0 0 1
 0 1 0 1 0
 0 0 1 0 0
 
-# W
+# 87:W
 1 0 0 0 1
 1 0 0 0 1
 1 0 1 0 1
 1 1 0 1 1
 1 0 0 0 1
 
-# X
+# 88:X
 1 0 0 1 0
 1 0 0 1 0
 0 1 1 0 0
 1 0 0 1 0
 1 0 0 1 0
 
-# Y
+# 89:Y
 1 0 0 0 1
 0 1 0 1 0
 0 0 1 0 0
 0 0 1 0 0
 0 0 1 0 0
 
-# Z
+# 90:Z
 1 1 1 1 0
 0 0 1 0 0
 0 1 0 0 0
 1 0 0 0 0
 1 1 1 1 0
+
+// # NOT YET 91:
+// # NOT YET 92:
+// # NOT YET 93:
+// # NOT YET 94:
+// # NOT YET 95:
+// # NOT YET 96:
+// # NOT YET 97:
+// # NOT YET 98:
+// # NOT YET 99:
+// # NOT YET 100:
+// # NOT YET 101:
+// # NOT YET 102:
+// # NOT YET 103:
+// # NOT YET 104:
+// # NOT YET 105:
+// # NOT YET 106:
+// # NOT YET 107:
+// # NOT YET 108:
+// # NOT YET 109:
+// # NOT YET 110:
+// # NOT YET 111:
+// # NOT YET 112:
+// # NOT YET 113:
+// # NOT YET 114:
+// # NOT YET 115:
+// # NOT YET 116:
+// # NOT YET 117:
+// # NOT YET 118:
+// # NOT YET 119:
+// # NOT YET 120:
+// # NOT YET 121:
+// # NOT YET 122:
+// # NOT YET 123:
+// # NOT YET 124:
+// # NOT YET 125:
+// # NOT YET 126:
+// # NOT YET 127:
+// # NOT YET 128:
+// # NOT YET 129:
+// # NOT YET 130:
+// # NOT YET 131:
+// # NOT YET 132:
+// # NOT YET 133:
+// # NOT YET 134:
+// # NOT YET 135:
+// # NOT YET 136:
+// # NOT YET 137:
+// # NOT YET 138:
+// # NOT YET 139:
+// # NOT YET 140:
+// # NOT YET 141:
+// # NOT YET 142:
+// # NOT YET 143:
+// # NOT YET 144:
+// # NOT YET 145:
+// # NOT YET 146:
+// # NOT YET 147:
+// # NOT YET 148:
+// # NOT YET 149:
+// # NOT YET 150:
+// # NOT YET 151:
+// # NOT YET 152:
+// # NOT YET 153:
+// # NOT YET 154:
+// # NOT YET 155:
+// # NOT YET 156:
+// # NOT YET 157:
+// # NOT YET 158:
+// # NOT YET 159:
+// # NOT YET 160:
+// # NOT YET 161:
+// # NOT YET 162:
+// # NOT YET 163:
+// # NOT YET 164:
+// # NOT YET 165:
+// # NOT YET 166:
+// # NOT YET 167:
+// # NOT YET 168:
+// # NOT YET 169:
+// # NOT YET 170:
+// # NOT YET 171:
+// # NOT YET 172:
+// # NOT YET 173:
+// # NOT YET 174:
+// # NOT YET 175:
+// # NOT YET 176:
+// # NOT YET 177:
+// # NOT YET 178:
+// # NOT YET 179:
+// # NOT YET 180:
+// # NOT YET 181:
+// # NOT YET 182:
+// # NOT YET 183:
+// # NOT YET 184:
+// # NOT YET 185:
+// # NOT YET 186:
+// # NOT YET 187:
+// # NOT YET 188:
+// # NOT YET 189:
+// # NOT YET 190:
+// # NOT YET 191:
+// # NOT YET 192:
+// # NOT YET 193:
+// # NOT YET 194:
+// # NOT YET 195:
+// # NOT YET 196:
+// # NOT YET 197:
+// # NOT YET 198:
+// # NOT YET 199:
+// # NOT YET 200:
+// # NOT YET 201:
+// # NOT YET 202:
+// # NOT YET 203:
+// # NOT YET 204:
+// # NOT YET 205:
+// # NOT YET 206:
+// # NOT YET 207:
+// # NOT YET 208:
+// # NOT YET 209:
+// # NOT YET 210:
+// # NOT YET 211:
+// # NOT YET 212:
+// # NOT YET 213:
+// # NOT YET 214:
+// # NOT YET 215:
+// # NOT YET 216:
+// # NOT YET 217:
+// # NOT YET 218:
+// # NOT YET 219:
+// # NOT YET 220:
+// # NOT YET 221:
+// # NOT YET 222:
+// # NOT YET 223:
+// # NOT YET 224:
+// # NOT YET 225:
+// # NOT YET 226:
+// # NOT YET 227:
+// # NOT YET 228:
+// # NOT YET 229:
+// # NOT YET 230:
+// # NOT YET 231:
+// # NOT YET 232:
+// # NOT YET 233:
+// # NOT YET 234:
+// # NOT YET 235:
+// # NOT YET 236:
+// # NOT YET 237:
+// # NOT YET 238:
+// # NOT YET 239:
+// # NOT YET 240:
+// # NOT YET 241:
+// # NOT YET 242:
+// # NOT YET 243:
+// # NOT YET 244:
+// # NOT YET 245:
+// # NOT YET 246:
+// # NOT YET 247:
+// # NOT YET 248:
+// # NOT YET 249:
+// # NOT YET 250:
+// # NOT YET 251:
+// # NOT YET 252:
+// # NOT YET 253:
+// # NOT YET 254:
+// # NOT YET 255:
