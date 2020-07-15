@@ -4,7 +4,7 @@ BEGIN{
 }
 
 /\/\/ \# NOT YET/{
-    print "0b0000000000000000000000000, // NOT YET";
+    print "    0b0000000000000000000000000, // NOT YET";
 } 
 
 /^\#/{
@@ -17,7 +17,7 @@ BEGIN{
 
 /^$/{
     gsub(" ", "", data);
-    print "0b"data", // "comment;
+    print "    0b"data", // "comment;
     data = "";
     comment = "";
 }
